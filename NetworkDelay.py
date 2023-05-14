@@ -1,0 +1,1 @@
+# Network Delay Time(Atraso de tempo da internet)
