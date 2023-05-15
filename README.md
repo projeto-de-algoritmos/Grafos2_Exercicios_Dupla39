@@ -24,6 +24,17 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 **Framework**: <br>
 ### Vídeo do Exercício 1 [clique aqui](https://www.youtube.com/watch?v=-wiobLXsRFA)
 
+### Exercicio 2 - " "
+**Nível do exercício:**
+
+**Linguagem**: Python<br>
+**Framework**: <br>
+
+### Exercicio 3 - " "
+**Nível do exercício:** 
+
+**Linguagem**: Python<br>
+**Framework**: <br>
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
