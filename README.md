@@ -13,15 +13,28 @@
 Este trabalho envolve a resolução de exercícios que abordam o conteúdo do módulo de Grafos 2 da disciplina de Projeto de Algoritmos. O foco principal é a aplicação de algoritmos em problemas relacionados a grafos.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Exercicio 1 - "Longest Increasing Path in a Matrix"
+**Nível do exercício:** Difícil
 
-## Instalação 
+![329](./images/329leetcode.png)
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
+
 **Linguagem**: Python<br>
 **Framework**: <br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### Vídeo do Exercício 1 [clique aqui](https://www.youtube.com/watch?v=-wiobLXsRFA)
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+### Exercicio 2 - " "
+**Nível do exercício:**
+
+**Linguagem**: Python<br>
+**Framework**: <br>
+
+### Exercicio 3 - " "
+**Nível do exercício:** 
+
+**Linguagem**: Python<br>
+**Framework**: <br>
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
