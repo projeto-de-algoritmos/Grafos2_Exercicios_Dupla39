@@ -2,7 +2,7 @@
 import heapq
 
 class Solution:
-    def maxProbability(self, n: int, edges: List[List[int]], succProb: List[float], start: int, end: int) -> float:
+    def maxProbability(self, n: int, edges: list[list[int]], succProb: list[float], start: int, end: int) -> float:
         graph = collections.defaultdict(list)
         for i in range(len(edges)):
             p, s = edges[i]
@@ -10,7 +10,7 @@ class Solution:
             graph[s].append((succProb[i], p))
         
         # Declarando a maxheap
-        max_heap = [(-1, start)]
+        max_heap = [[-1, start]]
         visited = []
         
         while max_heap:
@@ -18,12 +18,12 @@ class Solution:
             p, vertice = heapq.heappop(max_heap)  # p < 0
             
             if vertice == end:
-                return p
+                return -p
             
             visited.append(vertice)
             for i, j in graph[vertice]:
                 if j not in visited:
                     # Adiciona na heap
-                    heapq.heappush(max_heap, ((p*i), j))
+                    heapq.heappush(max_heap, [(p*i), j])
                 
         return 0.00000
