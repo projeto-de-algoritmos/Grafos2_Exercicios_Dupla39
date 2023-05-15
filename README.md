@@ -16,7 +16,7 @@ Este trabalho envolve a resolução de exercícios que abordam o conteúdo do m�
 ### Exercicio 1 - "Longest Increasing Path in a Matrix"
 **Nível do exercício:** Difícil
 
-![329](https://github.com/projeto-de-algoritmos/Grafos2_Exercicios_Dupla39/images/329leetcode.png)
+![329](./images/329leetcode.png)
 
 Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)
 
