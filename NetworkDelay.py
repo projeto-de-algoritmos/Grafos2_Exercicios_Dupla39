@@ -1,5 +1,4 @@
 # Network Delay Time(Atraso de tempo da internet)
-
 import heapq
 import math
 
@@ -10,6 +9,7 @@ class Solution:
         for u, v, time in times:
             graph[u].append([v, time])
         
+        #inicializa o verice de origem na heap
         time = [math.inf] * n
         time[k-1] = 0
         heap = [[0, k]] 
@@ -25,9 +25,8 @@ class Solution:
                     time[v-1] = total
                     visited.append(v)
                     heapq.heappush(heap, [total, v])
-            visited.append(atlVertice)
 
-        if (len(visited) == n):
+        if(len(visited)==n):
             return max(time)
         else:
             return -1

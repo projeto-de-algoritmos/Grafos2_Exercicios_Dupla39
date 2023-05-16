@@ -24,17 +24,27 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 **Framework**: <br>
 ### Vídeo do Exercício 1 [clique aqui](https://www.youtube.com/watch?v=-wiobLXsRFA)
 
-### Exercicio 2 - " "
-**Nível do exercício:**
+### Exercicio 2 - "Network Delay Time"
+**Nível do exercício:** Médio
+
+![743](./images/743leetcode.png)
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/network-delay-time/)
 
 **Linguagem**: Python<br>
 **Framework**: <br>
+### Vídeo do Exercício 3 [clique aqui](https://youtu.be/0fVShT9Xg5k)
 
-### Exercicio 3 - " "
-**Nível do exercício:** 
+### Exercicio 3 - "Path with Maximum Probability"
+**Nível do exercício:** Médio
+
+![1514](./images/1514eetcode.png)
+
+Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/path-with-maximum-probability/description/)
 
 **Linguagem**: Python<br>
 **Framework**: <br>
+### Vídeo do Exercício 3 [clique aqui](https://youtu.be/nEJsPQrYQ7E)
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.

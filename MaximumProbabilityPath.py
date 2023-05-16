@@ -15,7 +15,7 @@ class Solution:
         
         while max_heap:
             # Remove da heap
-            p, vertice = heapq.heappop(max_heap)  # p < 0
+            p, vertice = heapq.heappop(max_heap) 
             
             if vertice == end:
                 return -p
