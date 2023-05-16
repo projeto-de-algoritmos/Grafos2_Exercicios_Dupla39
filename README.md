@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 17/0154319  |  Philipe de Sousa Barros |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0042416  |  Pablo Christianno Silva Guedes |
 
 ## Sobre 
 Este trabalho envolve a resolução de exercícios que abordam o conteúdo do módulo de Grafos 2 da disciplina de Projeto de Algoritmos. O foco principal é a aplicação de algoritmos em problemas relacionados a grafos.
@@ -38,7 +38,7 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 ### Exercicio 3 - "Path with Maximum Probability"
 **Nível do exercício:** Médio
 
-![1514](./images/1514eetcode.png)
+![1514](./images/1514leetcode.png)
 
 Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/path-with-maximum-probability/description/)
 
