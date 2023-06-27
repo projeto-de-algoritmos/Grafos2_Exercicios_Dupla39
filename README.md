@@ -22,18 +22,23 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 1 [clique aqui](https://www.youtube.com/watch?v=-wiobLXsRFA)
+### Vídeo do Exercício 1 
+O arquivo do vídeo (.mp4) do exercício um se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/Grafos2_Exercicios_Dupla39/blob/master/videos/Exercicio1_Philipe.mp4)
+
+Disponível também no Youtube [clique aqui](https://www.youtube.com/watch?v=-wiobLXsRFA)
 
 ### Exercicio 2 - "Network Delay Time"
 **Nível do exercício:** Médio
 
 ![743](./images/743leetcode.png)
-
 Para acessar a página do exercício [clique aqui](https://leetcode.com/problems/network-delay-time/)
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 3 [clique aqui](https://youtu.be/0fVShT9Xg5k)
+### Vídeo do Exercício 2
+O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/Grafos2_Exercicios_Dupla39/blob/master/videos/Exercicio2_Pablo.mp4)
+ 
+Disponível também no Youtube [clique aqui](https://youtu.be/0fVShT9Xg5k)
 
 ### Exercicio 3 - "Path with Maximum Probability"
 **Nível do exercício:** Médio
@@ -44,7 +49,10 @@ Para acessar a página do exercício [clique aqui](https://leetcode.com/problems
 
 **Linguagem**: Python<br>
 **Framework**: <br>
-### Vídeo do Exercício 3 [clique aqui](https://youtu.be/nEJsPQrYQ7E)
+### Vídeo do Exercício 3 
+O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [video](https://github.com/projeto-de-algoritmos/Grafos2_Exercicios_Dupla39/blob/master/videos/Exercicio3_Pablo.mp4)
+
+Disponível também no Youtube [clique aqui](https://youtu.be/nEJsPQrYQ7E)
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
