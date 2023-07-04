@@ -54,8 +54,31 @@ O arquivo do vídeo (.mp4) do exercício dois se encontra na pasta videos -> [vi
 
 Disponível também no Youtube [clique aqui](https://youtu.be/nEJsPQrYQ7E)
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+
+<br>
+
+## Instalação 
+**Linguagem**: Python<br>
+
+Caso queira testar localmente é necessário instalar python:
+
+- ### Windows
+Baixe o pacote Python do [site official](https://www.python.org/downloads/), e no momento da instação, marque a opção "Add Python to PATH".
+
+- ### Linux
+Execute no terminal do linux a atualização dos pacotes e instalação do python3
+
+```bash
+sudo apt-get update
+sudo apt-get install python3
+```
+
+
+## Uso 
+Para verificar o funcionamento basta abrir o link do exercicio e copiar o código referente a questão, e logo após realizar o envio. Caso queira verificar localmente, é necessário executar o programa, e para isto basta utilizar o comando:
+
+`python NomeDoArquivo.py`
+
 
 
 
